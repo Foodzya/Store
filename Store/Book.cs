@@ -15,7 +15,9 @@ namespace Store
         public Book(int id, string title)
         {
             Id = id;
-            Title = title; 
+            Title = title;
+
+            Console.WriteLine("Hello world!");
         }
 
     }
