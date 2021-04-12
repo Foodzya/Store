@@ -16,8 +16,6 @@ namespace Store
         {
             Id = id;
             Title = title;
-
-            Console.WriteLine("Hello world!");
         }
 
     }
